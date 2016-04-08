@@ -1,3 +1,4 @@
+#!/usr/bin/ruby
 #    Des: 此脚本用于获取不同城市的天气
 # Author: Fred
 #   Date: 2016.04.07 17:30
@@ -97,4 +98,3 @@ puts "   Reset (0)"
 puts "   \033[1mBold (1)\033[0m\n"  
 puts "   \033[4mUnderlined (4)\033[0m\n"  
 =end
-sleep 30
